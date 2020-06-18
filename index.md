@@ -33,3 +33,7 @@ Becker gewann 1996 die Australian Open und siegte beim Grand-Slam-Cup in Münche
 * Item 8
 * Item 9
 * Item 10
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
