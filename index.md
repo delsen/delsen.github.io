@@ -38,4 +38,4 @@ As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
 
-![Boris Becker](https://de.wikipedia.org/wiki/Datei:Boris_Becker_-_2019102190927_2019-04-12_Radio_Regenbogen_Award_2019_-_Sven_-_1D_X_MK_II_-_0283_-_B70I6481-2.jpg)
+<img src="https://de.wikipedia.org/wiki/Datei:Boris_Becker_-_2019102190927_2019-04-12_Radio_Regenbogen_Award_2019_-_Sven_-_1D_X_MK_II_-_0283_-_B70I6481-2.jpg"/>
